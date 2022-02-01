@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab07-Database-393-Gavrilov</string>
+    <string name="app_creator">393 Gavrilov</string>
+    <string name="key">Key</string>
+    <string name="value">Value</string>
+    <string name="btn_Insert">Insert</string>
+    <string name="btn_Update">Update</string>
+    <string name="btn_Select">Select</string>
+    <string name="btn_Delete">Delete</string>
+</resources>
